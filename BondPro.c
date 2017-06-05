@@ -31,6 +31,7 @@ here they are in chronological order with rating, and actor.
 
 #include <stdio.h>
 #include <stdlib.h>
+#include <time.h>
 //stdio is for the printf func && stdlib is for the random function
 
 int main(int argc, char *argv[])
