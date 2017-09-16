@@ -1,4 +1,5 @@
-sort -R <<EOF | head -n 1
+#!/bin/bash
+sort -R -- <<EOF | head -n 1
 1. Climax! (1954) / 5.8/10 / William Lundigan
 2. Dr. No (1962) / 7.3/10 / Sean Connery
 3. From Russia.. / 7.5/10 / Sean Connery
